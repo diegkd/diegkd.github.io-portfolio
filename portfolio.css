@@ -14,9 +14,10 @@ margin:0 auto;
 padding:0 1%;
 }
 
+.heading{
+}
 
-
-.alignleft frame{
+.frame{
 	display: block;
 	border-radius: 50%;
 }
